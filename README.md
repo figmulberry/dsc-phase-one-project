@@ -1,4 +1,4 @@
-# Phase 1 Project Templates and Examples
+# The Dawn of Microsoft Movie-Making Magic
 
 This repo contains templates and examples to help you get started with your Phase 1 Project. Each of these is in a separate branch as explained below.
 
