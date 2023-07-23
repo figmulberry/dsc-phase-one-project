@@ -16,4 +16,4 @@ The datasets that will be used for this analysis are:-
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ## Project Dataset
-![Data](https://drive.google.com/file/d/1yGjNzhdOoxV1BwZ-2iL0allBlXd_eMPY/view?usp=sharing](https://kuniversity.maps.arcgis.com/sharing/rest/content/items/302a8a96b6304483af059f352972014d/data)https://kuniversity.maps.arcgis.com/sharing/rest/content/items/302a8a96b6304483af059f352972014d/data)
+![Data](https://ibb.co/zSdnfZb)
