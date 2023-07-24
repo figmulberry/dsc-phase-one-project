@@ -1,5 +1,6 @@
 # The Dawn of Microsoft Movie-Making Magic
 
+![Microsoft Movies](https://github.com/figmulberry/dsc-phase-one-project/blob/master/microsoft-activision-blizzard.png)
 
 ## Introduction
 
