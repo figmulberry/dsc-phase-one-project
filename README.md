@@ -1,6 +1,5 @@
 # The Dawn of Microsoft Movie-Making Magic
 
-![awesome](https://cdn.mos.cms.futurecdn.net/qtQjqi9nrZcL6DfsMPBakh.jpeg)
 
 ## Introduction
 
