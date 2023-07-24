@@ -27,10 +27,14 @@ From the analysis, the following observations are clear:
 * On the other hand, the five least produced movie genres were `Musical`, `Western`, `War`, `Sport`, and  `Music`. 
 * This observation tells a critical story for Microsoft since it appears the audience was consuming some genres more than others. However, this tells a half-story. We will need to look at the total income for the various movie genres and determine which ones had the highest gross income.
 
+  ![Movie Genres](https://github.com/figmulberry/dsc-phase-one-project/blob/master/Movies%20Produced%20per%20Genre.png)
+
 * This observation now gives a consistent story.
 * As seen above, the top five movie genres that fetched the highest gross returns from the highest were `Adventure`, `Action`, `Comedy`, `Drama`, and `Animations`.
 * The five genres with the least total gross were `War`, `Documentary`, `Musical`, `Western`, and `Sport`.
 * The story is very consistent and proves why most producers concentrated on certain genres and not others.
+
+  ![Total Gross Per Movie Genre](https://github.com/figmulberry/dsc-phase-one-project/blob/master/total%20gross%20returns.png)
 
 ## 5. Conclusion
 
